@@ -37,22 +37,39 @@ Ce dossier images contient les images des captures d'écran réalisées lors du 
 ## Architecture back :
 
 back-products
+
 |-- /controllers
+
 | |-- product.controller.js
+
 |-- /database
+
 | |-- index.js
+
 |-- /models
+
 | |-- product.model.js
+
 |-- /queries
+
 | |-- product.queries.js
+
 |-- /routes
+
 | |-- index.js
+
 | |-- product.routes.js
+
 |-- .gitignore
+
 |-- app.js
+
 |-- package.json
+
 |-- yarn.lock
+
 |-- /images
+
 |-- README.md
 
 ## Améliorations à faire (mais manque de temps) :
